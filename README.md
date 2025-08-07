@@ -5,7 +5,7 @@
 ## 🌐 En línea
 
 Podés ver el sitio publicado en:  
-[https://TU_USUARIO.github.io/mantenimiento-malamud](https://TU_USUARIO.github.io/mantenimiento-malamud)
+[https://mantenimiento-malamud.com](https://mantenimiento-malamud.com)
 
 > Reemplazá `TU_USUARIO` con tu nombre de usuario real de GitHub.
 
